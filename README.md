@@ -1,2 +1,1 @@
-# WalletTestnetHubProtocolPro
-Advanced WalletTestnetHubProtocolPro project
+.
